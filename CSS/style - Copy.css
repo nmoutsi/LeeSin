@@ -1,0 +1,177 @@
+
+header {
+  background-color: #000;
+  color: red;
+}
+
+headers h1, h3 {
+  display: inline;
+  width: 100vw;
+  text-align: left;
+  background-color: #000;
+  color: red;
+}
+
+.headersHs {
+  display: inline;
+}
+
+header ul {
+  display: inline;
+  
+}
+header ul li {
+  display: inline;
+  background-color: #000;
+  color: red;
+}
+
+/*
+body{
+    margin: 0;  
+}*/
+
+.hero1{
+    clear: both;
+    background-images: url(https://www.mobafire.com/images/champion/skins/landscape/lee-sin-muay-thai.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+*/
+    /*background-color:21252b ;*/
+    /* background-position: center center;*/
+}
+
+ /*h1{
+    text-align: center;
+    color: azure;
+    border:2px solid ;
+    font-size: 60px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 5px;
+    margin-top:-7cm ;
+}
+
+h3{
+    text-align: center;
+    color: azure;
+    font-size: 30px;
+
+}
+
+*/
+/*
+.pack1{
+    text-align: center;
+    font-size: 25px;
+    color: bcbf7c ;
+    background-color: 21252b;
+*/
+    /* position: relative; */
+    /* margin-top: 5cm;
+    top: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+    margin-bottom: 0cm; */
+}
+
+/*
+.text1{
+     
+}
+
+.img1{
+    border-style: solid;
+    margin-top: -10cm;
+    text-align: center;
+}
+
+.img2{
+    border-style: solid;
+    position: relative;
+    right: 18cm;
+    bottom: 0cm;
+}
+
+.img3{
+    border-style: solid;
+    position: relative;
+    left: 18cm;
+    bottom: -8cm;
+}
+
+.quotes{
+    font-size: 1cm;
+    position: relative;
+    bottom: -5cm;
+    margin-top: -3cm;
+}
+
+.quotes2{
+    position: relative;
+    right: 5.5cm;
+    margin-top: -2cm;
+}
+
+.video{
+    margin: 0cm;
+    position: relative;
+    text-align: center;
+    top: 25cm;
+}
+
+.button1{
+    background-color: 21252b;
+    color: bcbf7c;
+    border-style: solid;
+    border-color: bcbf7c;
+    width: 15cm;
+    height: 2cm;
+    position: absolute;
+    margin: 0;
+    top: 55%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    cursor: pointer;
+}
+
+.button2{
+    background-color: 21252b;
+    color: bcbf7c;
+    border-style: solid;
+    border-color: bcbf7c;
+    width: 15cm;
+    height: 2cm;
+    position: absolute;
+    margin: 0;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    cursor: pointer;
+}
+.button3{
+    background-color: 21252b;
+    color: bcbf7c;
+    border-style: solid;
+    border-color: bcbf7c;
+    width: 15cm;
+    height: 2cm;
+    position: absolute;
+    margin: 0;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    cursor: pointer;
+} */
